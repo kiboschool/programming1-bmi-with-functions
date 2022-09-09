@@ -1,6 +1,6 @@
 # BMI Functions: Instructions
 
-Define a function named `calculate_bmi` that takes in  weight and height as arguments, calculates the BMI, and returns it.
+Define a function named `calculate_bmi` that takes in  weight in kg and height in meters as arguments, calculates the BMI, and returns it.
 
 Make sure you round the returned value to 1 decimal point.
 
